@@ -8,9 +8,9 @@ class test {
 
     System.out.println("Enter name, age and salary:");
 
-    String name = "Abdul";
-    int age = 18;
-    Double salary = 850000.00;
+    String name = "ram";
+    int age = 19;
+    Double salary = 19000.0;
 
     System.out.println("Name: " + name);
     System.out.println("Age: " + age);
